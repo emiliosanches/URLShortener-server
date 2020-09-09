@@ -1,0 +1,76 @@
+[2020-08-17T16:15:36.007Z]
+TypeError: Cannot read property 'to' of undefined
+--------------
+
+[2020-08-17T16:16:18.113Z]
+TypeError: Cannot read property 'to' of undefined
+--------------
+
+[2020-08-17T16:16:23.268Z]
+TypeError: Cannot read property 'to' of undefined
+--------------
+
+[2020-08-17T16:16:45.531Z]
+TypeError: Cannot read property 'to' of undefined
+--------------
+
+[2020-08-17T16:18:01.801Z]
+Error: insert into `url` (`id`, `to`) values ('1', 'https://www.google.com/') - SQLITE_CONSTRAINT: UNIQUE constraint failed: url.id
+--------------
+
+[2020-08-17T16:18:02.333Z]
+Error: insert into `url` (`id`, `to`) values ('1', 'https://www.google.com/') - SQLITE_CONSTRAINT: UNIQUE constraint failed: url.id
+--------------
+
+[2020-08-17T16:19:34.876Z]
+Error: insert into `url` (`id`, `to`) values ('1', 'https://www.google.com/') - SQLITE_CONSTRAINT: UNIQUE constraint failed: url.id
+--------------
+
+[2020-08-17T16:20:43.113Z]
+Error: insert into `url` (`id`, `to`) values ('1', 'https://www.google.com/') - SQLITE_CONSTRAINT: UNIQUE constraint failed: url.id
+--------------
+
+[2020-08-17T16:20:53.831Z]
+Error: insert into `url` (`id`, `to`) values ('1', 'https://www.google.com/') - SQLITE_CONSTRAINT: UNIQUE constraint failed: url.id
+--------------
+
+[2020-08-17T16:20:58.928Z]
+Error: insert into `url` (`id`, `to`) values ('1', 'https://www.google.com/') - SQLITE_CONSTRAINT: UNIQUE constraint failed: url.id
+--------------
+
+[2020-08-17T16:25:09.319Z]
+Error: insert into `url` (`id`, `to`) values ('1', 'https://www.google.com/') - SQLITE_CONSTRAINT: UNIQUE constraint failed: url.id
+--------------
+
+[2020-08-17T16:25:25.351Z]
+Error: insert into `url` (`id`, `to`) values ('1', 'https://www.google.com/') - SQLITE_CONSTRAINT: UNIQUE constraint failed: url.id
+--------------
+
+[2020-08-17T16:46:59.621Z]
+Error: insert into `url` (`id`, `to`) values ('1', 'https://www.google.com/') - SQLITE_CONSTRAINT: UNIQUE constraint failed: url.id
+--------------
+
+[2020-08-17T17:00:43.205Z]
+TypeError: Cannot read property 'to' of undefined
+--------------
+
+[2020-09-09T05:24:44.555Z]
+TypeError: Cannot read property 'to' of undefined
+--------------
+
+[2020-09-09T05:39:27.229Z]
+Error: insert into `url` (`id`, `to`) values ('00001', 'https://www.youtube.com/') - SQLITE_CONSTRAINT: UNIQUE constraint failed: url.id
+--------------
+
+[2020-09-09T05:39:39.884Z]
+Error: insert into `url` (`id`, `to`) values ('00001', 'https://www.youtube.com/') - SQLITE_CONSTRAINT: UNIQUE constraint failed: url.id
+--------------
+
+[2020-09-09T05:39:59.394Z]
+Error: insert into `url` (`id`, `to`) values ('00001', 'https://www.youtube.com/') - SQLITE_CONSTRAINT: UNIQUE constraint failed: url.id
+--------------
+
+[2020-09-09T05:40:29.907Z]
+Error: insert into `url` (`id`, `to`) values ('00001', 'http://youtube.com') - SQLITE_CONSTRAINT: UNIQUE constraint failed: url.id
+--------------
+
